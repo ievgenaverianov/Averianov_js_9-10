@@ -1,0 +1,20 @@
+.wrapper {
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.wrapper h2 {
+    text-align: center;
+}
+
+.wrapper h2,
+.wrapper h3{
+    margin-top: 30px;
+    font-family: Verdana, Helvetica, sans-serif;
+}
+
+.selcheck-container {
+    height: 200px;
+}
+
+
