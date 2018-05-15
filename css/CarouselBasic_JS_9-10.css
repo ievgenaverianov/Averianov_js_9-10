@@ -10,7 +10,6 @@
     -webkit-box-shadow: 0 0 2px #999;
     -moz-box-shadow: 0 0 2px #999;
     box-shadow: 0 0 2px #999;
-    /*zoom: 0.75;*/
 }
 
 
@@ -79,7 +78,7 @@
 
 .jcarousel-pagination {
     position: absolute;
-    bottom: 0;
+    bottom: 10px;
     left: 50%;
     margin-left: -44px;
 }
